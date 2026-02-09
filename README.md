@@ -1,7 +1,7 @@
 # Technical Assessment — Data Scientist & AI Engineer
 
 **Time:** 2.5 hours
-**Deliverable:** A notebook (`.ipynb`), PDF, or HTML containing your code, analysis, and commentary.
+**Deliverable:** A notebook (`.ipynb`) containing your code, analysis, and commentary.
 **Send to:** pcosta@latencydata.com
 
 ---
@@ -46,6 +46,7 @@ Specifically:
 
 ## What Happens Next
 
-If your submission moves forward, we'll schedule a short follow-up conversation where you'll walk us through your approach and findings. Having a few slides or a clear narrative prepared is helpful but not required.
+If your submission goes well, you'll be invited to present your results and discuss your approach with several members of the team. 
 
-Good luck — and have fun with it.
+
+Good luck, and we hope that you find some excitement in the challenge. 
