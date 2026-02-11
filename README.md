@@ -1,7 +1,7 @@
 # Technical Assessment — Data Scientist & AI Engineer
 
-**Time:** 2.5 hours
-**Deliverable:** A notebook (`.ipynb`) containing your code, analysis, and commentary.
+**Time:** 2.5 hours<br>
+**Deliverable:** A notebook (`.ipynb`) containing your code, analysis, and commentary.<br>
 **Send to:** pcosta@latencydata.com
 
 ---
